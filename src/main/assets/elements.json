@@ -1,0 +1,1194 @@
+{
+    "elements": [
+        {
+            "nom": "Hydrogène",
+            "masse_atomique": 1.008,
+            "densite": 0.08988,
+            "numero": 1,
+            "periode": 1,
+            "phase": "Gaz",
+            "source": "https://fr.wikipedia.org/wiki/Hydrog%C3%A8ne",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Hydrogen_Spectra.jpg"
+        },
+        {
+            "nom": "Hélium",
+            "masse_atomique": 4.0026022,
+            "densite": 0.1786,
+            "numero": 2,
+            "periode": 1,
+            "phase": "Gaz",
+            "source": "https://fr.wikipedia.org/wiki/H%C3%A9lium",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Helium_spectrum.jpg"
+        },
+        {
+            "nom": "Lithium",
+            "masse_atomique": 6.94,
+            "densite": 0.534,
+            "numero": 3,
+            "periode": 2,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Lithium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Beryllium",
+            "masse_atomique": 9.01218315,
+            "densite": 1.85,
+            "numero": 4,
+            "periode": 2,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/B%C3%A9ryllium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Bore",
+            "masse_atomique": 10.81,
+            "densite": 2.08,
+            "numero": 5,
+            "periode": 2,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Bore",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Carbone",
+            "masse_atomique": 12.011,
+            "densite": 1.821,
+            "numero": 6,
+            "periode": 2,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Carbone",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Carbon_Spectra.jpg"
+        },
+        {
+            "nom": "Azote",
+            "masse_atomique": 14.007,
+            "densite": 1.251,
+            "numero": 7,
+            "periode": 2,
+            "phase": "Gaz",
+            "source": "https://fr.wikipedia.org/wiki/Azote",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Nitrogen_Spectra.jpg"
+        },
+        {
+            "nom": "Oxygène",
+            "masse_atomique": 15.999,
+            "densite": 1.429,
+            "numero": 8,
+            "periode": 2,
+            "phase": "Gaz",
+            "source": "https://fr.wikipedia.org/wiki/Oxyg%C3%A8ne",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Oxygen_spectre.jpg"
+        },
+        {
+            "nom": "Fluor",
+            "masse_atomique": 18.9984031636,
+            "densite": 1.696,
+            "numero": 9,
+            "periode": 2,
+            "phase": "Gaz",
+            "source": "https://fr.wikipedia.org/wiki/Fluor",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Néon",
+            "masse_atomique": 20.17976,
+            "densite": 0.9002,
+            "numero": 10,
+            "periode": 2,
+            "phase": "Gaz",
+            "source": "https://fr.wikipedia.org/wiki/N%C3%A9on",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Neon_spectra.jpg"
+        },
+        {
+            "nom": "Sodium",
+            "masse_atomique": 22.989769282,
+            "densite": 0.968,
+            "numero": 11,
+            "periode": 3,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Sodium",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Sodium_Spectra.jpg"
+        },
+        {
+            "nom": "Magnésium",
+            "masse_atomique": 24.305,
+            "densite": 1.738,
+            "numero": 12,
+            "periode": 3,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Magn%C3%A9sium",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Magnesium_Spectra.jpg"
+        },
+        {
+            "nom": "Aluminium",
+            "masse_atomique": 26.98153857,
+            "densite": 2.7,
+            "numero": 13,
+            "periode": 3,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Aluminium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Silicium",
+            "masse_atomique": 28.085,
+            "densite": 2.329,
+            "numero": 14,
+            "periode": 3,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Silicium",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Silicon_Spectra.jpg"
+        },
+        {
+            "nom": "Phosphore",
+            "masse_atomique": 30.9737619985,
+            "densite": 1.823,
+            "numero": 15,
+            "periode": 3,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Phosphore",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Soufre",
+            "masse_atomique": 32.06,
+            "densite": 2.07,
+            "numero": 16,
+            "periode": 3,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Soufre",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Sulfur_Spectrum.jpg"
+        },
+        {
+            "nom": "Chlore",
+            "masse_atomique": 35.45,
+            "densite": 3.2,
+            "numero": 17,
+            "periode": 3,
+            "phase": "Gaz",
+            "source": "https://fr.wikipedia.org/wiki/Chlore",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Chlorine_spectrum_visible.png"
+        },
+        {
+            "nom": "Argon",
+            "masse_atomique": 39.9481,
+            "densite": 1.784,
+            "numero": 18,
+            "periode": 3,
+            "phase": "Gaz",
+            "source": "https://fr.wikipedia.org/wiki/Argon",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Argon_Spectrum.png"
+        },
+        {
+            "nom": "Potassium",
+            "masse_atomique": 39.09831,
+            "densite": 0.862,
+            "numero": 19,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Potassium",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Potassium_Spectrum.jpg"
+        },
+        {
+            "nom": "Calcium",
+            "masse_atomique": 40.0784,
+            "densite": 1.55,
+            "numero": 20,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Calcium",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Calcium_Spectrum.png"
+        },
+        {
+            "nom": "Scandium",
+            "masse_atomique": 44.9559085,
+            "densite": 2.985,
+            "numero": 21,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Scandium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Titane",
+            "masse_atomique": 47.8671,
+            "densite": 4.506,
+            "numero": 22,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Titane",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Vanadium",
+            "masse_atomique": 50.94151,
+            "densite": 6,
+            "numero": 23,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Vanadium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Chrome",
+            "masse_atomique": 51.99616,
+            "densite": 7.19,
+            "numero": 24,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Chrome",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Manganèse",
+            "masse_atomique": 54.9380443,
+            "densite": 7.21,
+            "numero": 25,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Mangan%C3%A8se",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Fer",
+            "masse_atomique": 55.8452,
+            "densite": 7.874,
+            "numero": 26,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Fer",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Iron_Spectrum.jpg"
+        },
+        {
+            "nom": "Cobalt",
+            "masse_atomique": 58.9331944,
+            "densite": 8.9,
+            "numero": 27,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Cobalt",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Nickel",
+            "masse_atomique": 58.69344,
+            "densite": 8.908,
+            "numero": 28,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Nickel",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Cuivre",
+            "masse_atomique": 63.5463,
+            "densite": 8.96,
+            "numero": 29,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Cuivre",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Zinc",
+            "masse_atomique": 65.382,
+            "densite": 7.14,
+            "numero": 30,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Zinc",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Gallium",
+            "masse_atomique": 69.7231,
+            "densite": 5.91,
+            "numero": 31,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Gallium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Germanium",
+            "masse_atomique": 72.6308,
+            "densite": 5.323,
+            "numero": 32,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Germanium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Arsenic",
+            "masse_atomique": 74.9215956,
+            "densite": 5.727,
+            "numero": 33,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Arsenic",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Sélénium",
+            "masse_atomique": 78.9718,
+            "densite": 4.81,
+            "numero": 34,
+            "periode": 4,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/S%C3%A9l%C3%A9nium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Brome",
+            "masse_atomique": 79.904,
+            "densite": 3.1028,
+            "numero": 35,
+            "periode": 4,
+            "phase": "Liquide",
+            "source": "https://fr.wikipedia.org/wiki/Brome",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Krypton",
+            "masse_atomique": 83.7982,
+            "densite": 3.749,
+            "numero": 36,
+            "periode": 4,
+            "phase": "Gaz",
+            "source": "https://fr.wikipedia.org/wiki/Krypton",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Krypton_Spectrum.jpg"
+        },
+        {
+            "nom": "Rubidium",
+            "masse_atomique": 85.46783,
+            "densite": 1.532,
+            "numero": 37,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Rubidium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Strontium",
+            "masse_atomique": 87.621,
+            "densite": 2.64,
+            "numero": 38,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Strontium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Yttrium",
+            "masse_atomique": 88.905842,
+            "densite": 4.472,
+            "numero": 39,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Yttrium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Zirconium",
+            "masse_atomique": 91.2242,
+            "densite": 6.52,
+            "numero": 40,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Zirconium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Niobium",
+            "masse_atomique": 92.906372,
+            "densite": 8.57,
+            "numero": 41,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Niobium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Molybdène",
+            "masse_atomique": 95.951,
+            "densite": 10.28,
+            "numero": 42,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Molybd%C3%A8ne",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Technétium",
+            "masse_atomique": 98,
+            "densite": 11,
+            "numero": 43,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Techn%C3%A9tium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Ruthénium",
+            "masse_atomique": 101.072,
+            "densite": 12.45,
+            "numero": 44,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Ruth%C3%A9nium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Rhodium",
+            "masse_atomique": 102.905502,
+            "densite": 12.41,
+            "numero": 45,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Rhodium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Palladium",
+            "masse_atomique": 106.421,
+            "densite": 12.023,
+            "numero": 46,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Palladium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Argent",
+            "masse_atomique": 107.86822,
+            "densite": 10.49,
+            "numero": 47,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Argent",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Cadmium",
+            "masse_atomique": 112.4144,
+            "densite": 8.65,
+            "numero": 48,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Cadmium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Indium",
+            "masse_atomique": 114.8181,
+            "densite": 7.31,
+            "numero": 49,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Indium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Étain",
+            "masse_atomique": 118.7107,
+            "densite": 7.365,
+            "numero": 50,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/%C3%89tain",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Antimone",
+            "masse_atomique": 121.7601,
+            "densite": 6.697,
+            "numero": 51,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Antimoine",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Tellure",
+            "masse_atomique": 127.603,
+            "densite": 6.24,
+            "numero": 52,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Tellure",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Iode",
+            "masse_atomique": 126.904473,
+            "densite": 4.933,
+            "numero": 53,
+            "periode": 5,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Iode",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Xénon",
+            "masse_atomique": 131.2936,
+            "densite": 5.894,
+            "numero": 54,
+            "periode": 5,
+            "phase": "Gaz",
+            "source": "https://fr.wikipedia.org/wiki/X%C3%A9non",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Xenon_Spectrum.jpg"
+        },
+        {
+            "nom": "Césium",
+            "masse_atomique": 132.905451966,
+            "densite": 1.93,
+            "numero": 55,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/C%C3%A9sium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Baryum",
+            "masse_atomique": 137.3277,
+            "densite": 3.51,
+            "numero": 56,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Baryum",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Lanthane",
+            "masse_atomique": 138.905477,
+            "densite": 6.162,
+            "numero": 57,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Lanthane",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Cérium",
+            "masse_atomique": 140.1161,
+            "densite": 6.77,
+            "numero": 58,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/C%C3%A9rium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Praséodyme",
+            "masse_atomique": 140.907662,
+            "densite": 6.77,
+            "numero": 59,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Pras%C3%A9odyme",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Néodyme",
+            "masse_atomique": 144.2423,
+            "densite": 7.01,
+            "numero": 60,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/N%C3%A9odyme",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Prométhium",
+            "masse_atomique": 145,
+            "densite": 7.26,
+            "numero": 61,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Prom%C3%A9thium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Samarium",
+            "masse_atomique": 150.362,
+            "densite": 7.52,
+            "numero": 62,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Samarium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Europium",
+            "masse_atomique": 151.9641,
+            "densite": 5.264,
+            "numero": 63,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Europium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Gadolinium",
+            "masse_atomique": 157.253,
+            "densite": 7.9,
+            "numero": 64,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Gadolinium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Terbium",
+            "masse_atomique": 158.925352,
+            "densite": 8.23,
+            "numero": 65,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Terbium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Dysprosium",
+            "masse_atomique": 162.5001,
+            "densite": 8.54,
+            "numero": 66,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Dysprosium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Holmium",
+            "masse_atomique": 164.930332,
+            "densite": 8.79,
+            "numero": 67,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Holmium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Erbium",
+            "masse_atomique": 167.2593,
+            "densite": 9.066,
+            "numero": 68,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Erbium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Thulium",
+            "masse_atomique": 168.934222,
+            "densite": 9.32,
+            "numero": 69,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Thulium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Ytterbium",
+            "masse_atomique": 173.0451,
+            "densite": 6.9,
+            "numero": 70,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Ytterbium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Lutécium",
+            "masse_atomique": 174.96681,
+            "densite": 9.841,
+            "numero": 71,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Lut%C3%A9cium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Hafnium",
+            "masse_atomique": 178.492,
+            "densite": 13.31,
+            "numero": 72,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Hafnium",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Hafnium_spectrum_visible.png"
+        },
+        {
+            "nom": "Tantale",
+            "masse_atomique": 180.947882,
+            "densite": 16.69,
+            "numero": 73,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Tantale",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Tantalum_spectrum_visible.png"
+        },
+        {
+            "nom": "Tungstène",
+            "masse_atomique": 183.841,
+            "densite": 19.25,
+            "numero": 74,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Tungst%C3%A8ne",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Rhénium",
+            "masse_atomique": 186.2071,
+            "densite": 21.02,
+            "numero": 75,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Rh%C3%A9nium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Osmium",
+            "masse_atomique": 190.233,
+            "densite": 22.59,
+            "numero": 76,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Osmium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Iridium",
+            "masse_atomique": 192.2173,
+            "densite": 22.56,
+            "numero": 77,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Iridium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Platine",
+            "masse_atomique": 195.0849,
+            "densite": 21.45,
+            "numero": 78,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Platine",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Or",
+            "masse_atomique": 196.9665695,
+            "densite": 19.3,
+            "numero": 79,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Or",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Mercure",
+            "masse_atomique": 200.5923,
+            "densite": 13.534,
+            "numero": 80,
+            "periode": 6,
+            "phase": "Liquide",
+            "source": "https://fr.wikipedia.org/wiki/Mercure",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Thallium",
+            "masse_atomique": 204.38,
+            "densite": 11.85,
+            "numero": 81,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Thallium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Plomb",
+            "masse_atomique": 207.21,
+            "densite": 11.34,
+            "numero": 82,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Plomb",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Bismuth",
+            "masse_atomique": 208.980401,
+            "densite": 9.78,
+            "numero": 83,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Bismuth",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Polonium",
+            "masse_atomique": 209,
+            "densite": 9.196,
+            "numero": 84,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Polonium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Astate",
+            "masse_atomique": 210,
+            "densite": 6.35,
+            "numero": 85,
+            "periode": 6,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Astate",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Radon",
+            "masse_atomique": 222,
+            "densite": 9.73,
+            "numero": 86,
+            "periode": 6,
+            "phase": "Gaz",
+            "source": "https://fr.wikipedia.org/wiki/Radon",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Radon_spectrum.png"
+        },
+        {
+            "nom": "Francium",
+            "masse_atomique": 223,
+            "densite": 1.87,
+            "numero": 87,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Francium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Radium",
+            "masse_atomique": 226,
+            "densite": 5.5,
+            "numero": 88,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Radium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Actinium",
+            "masse_atomique": 227,
+            "densite": 10,
+            "numero": 89,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Actinium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Thorium",
+            "masse_atomique": 232.03774,
+            "densite": 11.724,
+            "numero": 90,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Thorium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Protactinium",
+            "masse_atomique": 231.035882,
+            "densite": 15.37,
+            "numero": 91,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Protactinium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Uranium",
+            "masse_atomique": 238.028913,
+            "densite": 19.1,
+            "numero": 92,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Uranium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Neptunium",
+            "masse_atomique": 237,
+            "densite": 20.45,
+            "numero": 93,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Neptunium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Plutonium",
+            "masse_atomique": 244,
+            "densite": 19.816,
+            "numero": 94,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Plutonium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Américium",
+            "masse_atomique": 243,
+            "densite": 12,
+            "numero": 95,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Am%C3%A9ricium",
+            "image_spectrale": "https://en.wikipedia.org/wiki/File:Americium_spectrum_visible.png"
+        },
+        {
+            "nom": "Curium",
+            "masse_atomique": 247,
+            "densite": 13.51,
+            "numero": 96,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Curium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Berkélium",
+            "masse_atomique": 247,
+            "densite": 14.78,
+            "numero": 97,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Berk%C3%A9lium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Californium",
+            "masse_atomique": 251,
+            "densite": 15.1,
+            "numero": 98,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Californium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Einsteinium",
+            "masse_atomique": 252,
+            "densite": 8.84,
+            "numero": 99,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Einsteinium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Fermium",
+            "masse_atomique": 257,
+            "densite": 0,
+            "numero": 100,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Fermium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Mendélévium",
+            "masse_atomique": 258,
+            "densite": 0,
+            "numero": 101,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Mend%C3%A9l%C3%A9vium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Nobélium",
+            "masse_atomique": 259,
+            "densite": 0,
+            "numero": 102,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Nob%C3%A9lium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Lawrencium",
+            "masse_atomique": 266,
+            "densite": 0,
+            "numero": 103,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Lawrencium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Rutherfordium",
+            "masse_atomique": 267,
+            "densite": 23.2,
+            "numero": 104,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Rutherfordium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Dubnium",
+            "masse_atomique": 268,
+            "densite": 29.3,
+            "numero": 105,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Dubnium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Seaborgium",
+            "masse_atomique": 269,
+            "densite": 35,
+            "numero": 106,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Seaborgium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Bohrium",
+            "masse_atomique": 270,
+            "densite": 37.1,
+            "numero": 107,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Bohrium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Hassium",
+            "masse_atomique": 269,
+            "densite": 40.7,
+            "numero": 108,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Hassium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Meitnerium",
+            "masse_atomique": 278,
+            "densite": 37.4,
+            "numero": 109,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Meitn%C3%A9rium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Darmstadtium",
+            "masse_atomique": 281,
+            "densite": 34.8,
+            "numero": 110,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Darmstadtium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Roentgenium",
+            "masse_atomique": 282,
+            "densite": 28.7,
+            "numero": 111,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Roentgenium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Copernicium",
+            "masse_atomique": 285,
+            "densite": 23.7,
+            "numero": 112,
+            "periode": 7,
+            "phase": "Gaz",
+            "source": "https://fr.wikipedia.org/wiki/Copernicium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Nihonium",
+            "masse_atomique": 286,
+            "densite": 16,
+            "numero": 113,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Nihonium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Flérovium",
+            "masse_atomique": 289,
+            "densite": 14,
+            "numero": 114,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Fl%C3%A9rovium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Moscovium",
+            "masse_atomique": 289,
+            "densite": 13.5,
+            "numero": 115,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Moscovium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Livermorium",
+            "masse_atomique": 293,
+            "densite": 12.9,
+            "numero": 116,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Livermorium",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Tennesse",
+            "masse_atomique": 294,
+            "densite": 7.17,
+            "numero": 117,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Tennesse",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Oganesson",
+            "masse_atomique": 294,
+            "densite": 4.95,
+            "numero": 118,
+            "periode": 7,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Oganesson",
+            "image_spectrale": null
+        },
+        {
+            "nom": "Ununennium",
+            "masse_atomique": 315,
+            "densite": 3,
+            "numero": 119,
+            "periode": 8,
+            "phase": "Solide",
+            "source": "https://fr.wikipedia.org/wiki/Ununennium",
+            "image_spectrale": null
+        }
+    ]
+}
